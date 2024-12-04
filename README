@@ -1,0 +1,11 @@
+# MATLAB Project
+This repository contains MATLAB scripts for analyzing data related to Measurement of bimanual tapping.  
+## How to Use
+1. Clone this repository.
+2. Open the `test_main.m` files in MATLAB and uncomment out the part of the script that executes main_block ot other scripts.
+3. Run the scripts as needed.
+4．When a white number appears on the screen, press the J key for 1, E for 2, I for 3, or F for 4. Press each key with the index and middle fingers of both hands.
+
+## Main Features
+- Feature 1
+- Feature 2
